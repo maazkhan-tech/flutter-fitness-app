@@ -6,8 +6,6 @@ A modern, feature-rich cross-platform mobile application built with **Flutter** 
 
 ## 📱 Screenshots
 
-> *Add screenshots or a GIF of your app running on Android/iOS here to make your repository stand out.*
-
 <p align="center">
   <img src="assets/screenshots/home.png" width="250" />
   <img src="assets/screenshots/workout.png" width="250" />

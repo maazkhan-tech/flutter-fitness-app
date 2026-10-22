@@ -11,7 +11,7 @@ A modern, feature-rich cross-platform mobile application built with **Flutter** 
 <p align="center">
   <img src="assets/screenshots/home.png" width="250" />
   <img src="assets/screenshots/workout.png" width="250" />
-  <img src="assets/screenshots/profile.png" width="250" />
+  <img src="assets/screenshots/training.png" width="250" />
 </p>
 -->
 
